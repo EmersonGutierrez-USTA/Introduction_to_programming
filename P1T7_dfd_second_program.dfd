@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+"soft-sum v1 maker: emerson guntierrez this software calculate a sum by three numbers"
+4
+1
+10
+"number 1"
+5
+1
+7
+number1
+4
+1
+10
+"number 2"
+5
+1
+7
+number2
+4
+1
+10
+"number 3"
+5
+1
+7
+number3
+6
+1
+3
+sum
+23
+number1+number2+number3
+4
+1
+19
+"la suma es: ", sum
+1

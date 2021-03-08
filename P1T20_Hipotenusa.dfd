@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+106
+"SFOTHIPOTENUSA V1 Maker: Emerson Gutierrez this software allows you to find the hypotenuse of a triangle"
+4
+1
+21
+"imput adjacent side"
+5
+1
+8
+V_side_a
+4
+1
+21
+"imput opposite side"
+5
+1
+8
+v_side_o
+7
+0
+1
+28
+V_side_a = 0 OR V_side_o = 0
+6
+3
+1
+A
+10
+v_side_a^2
+1
+B
+11
+v_side_o ^2
+1
+H
+11
+sqrt(A + B)
+4
+1
+23
+"the hipotenusa is" , H
+13
+4
+1
+30
+"ERR the sides cannot be zero"
+13
+1

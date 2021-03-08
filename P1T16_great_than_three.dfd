@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+"SOFTGREATER THAN THREE V1 Maker: Emerson Gutierrez  this software allows you to calculate  the number greater than three"
+4
+1
+15
+"imput number1"
+5
+1
+9
+v_number1
+4
+1
+15
+"imput number2"
+5
+1
+9
+v_number2
+4
+1
+15
+"imput number3"
+5
+1
+9
+v_number3
+7
+0
+1
+45
+v_number1=v_number2 OR v_number1 = v_number3 
+7
+0
+1
+46
+v_number1 > v_number2 OR v_number2 > v_number3
+7
+0
+1
+45
+v_number1 > v_number1 OR v_number2 >v_number3
+4
+1
+37
+"the number:" ,v_number3, " is older"
+13
+4
+1
+37
+"the number:" ,v_number2, " is older"
+13
+13
+4
+1
+37
+"the number:" ,v_number1, " is older"
+13
+13
+4
+1
+26
+"the numbers are the same"
+13
+1

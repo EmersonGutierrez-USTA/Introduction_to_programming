@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+146
+"SOFTAVERAGESALARY Makers: Daniel Nuñez - Nataly Vargas - Emerson Gutierrez this software is to average - total  - highest salary for N employees"
+4
+1
+27
+"input the total employees"
+5
+1
+17
+v_total_employees
+7
+0
+1
+22
+v_total_employees <= 0
+6
+3
+9
+v_average
+1
+0
+7
+v_total
+1
+0
+9
+v_higgest
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+17
+v_total_employees
+1
+1
+1
+4
+1
+44
+"input the gross salary by the employees" ,i
+5
+1
+14
+v_gross_salary
+4
+1
+40
+"input the working days by employees" ,i
+5
+1
+11
+v_work_days
+6
+2
+8
+v_salary
+31
+v_gross_salary/30 * v_work_days
+7
+v_total
+18
+v_total + v_salary
+7
+0
+1
+20
+v_salary > v_higgest
+13
+6
+1
+9
+v_higgest
+8
+v_salary
+13
+10
+6
+1
+9
+v_average
+25
+v_total/v_total_employees
+4
+1
+105
+"the total salary is:" ,v_total, " and the average is" ,v_average, "and the higgest salary is" ,v_higgest
+13
+4
+1
+49
+"ERR the number entered cannot be less than zero"
+13
+1

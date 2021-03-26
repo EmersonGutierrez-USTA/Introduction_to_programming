@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+"SOFTSEMESTER-GRADE Maker Emerson Gutierrez this software calculates the semester grades"
+4
+1
+14
+"imput  note1"
+5
+1
+7
+v_note1
+4
+1
+13
+"imput note2"
+5
+1
+7
+v_note2
+4
+1
+13
+"imput note3"
+5
+1
+7
+v_note3
+4
+1
+13
+"imput note4"
+5
+1
+7
+v_note4
+7
+0
+1
+117
+v_note1 < 0 OR v_note1 > 5 OR v_note2 < 0 OR v_note2 > 5 OR v_note3 < 0 OR v_note3 > 5 OR  v_note4 < 0 OR v_note4 > 5
+6
+1
+10
+final_note
+61
+v_note1 * 0.2 +v_note2 * 0.25 + v_note3 * 0.25 + v_note4 *0.3
+4
+1
+32
+"the final note is:" ,final_note
+13
+4
+1
+27
+"ERR the note is not valid"
+13
+1

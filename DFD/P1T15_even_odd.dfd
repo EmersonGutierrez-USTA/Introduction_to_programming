@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+"SOFTODD-EVEN V1 Maker Emerson Gutierrez this software tells you if a number is odd or even please only put whole numbers"
+4
+1
+14
+"imput number"
+5
+1
+8
+v_number
+7
+0
+1
+12
+v_number = 0
+6
+1
+6
+number
+1
+0
+7
+0
+1
+18
+v_number mod 2 = 0
+4
+1
+35
+"this number:" ,v_number, " is odd"
+13
+4
+1
+36
+"this number:" ,v_number, " is even"
+13
+13
+4
+1
+30
+" ERR the number is not valid"
+13
+1
